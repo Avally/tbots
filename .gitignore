@@ -1,0 +1,11 @@
+### IDE ###
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### Tools & Build ###
+.mvn/
+target/
+
+demo-app/
